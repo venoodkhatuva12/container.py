@@ -1,4 +1,4 @@
-# containercheck.py
+# container.py
 To monitor docker containers memory, cpu, network and status
 
 pre-requisite...
@@ -8,7 +8,7 @@ docker-py>=1.0.0
 
 How to use it...
 
-containercheck.py [-h] container {cpu,ip,memory,network,status} ...
+container.py [-h] container {cpu,ip,memory,network,status} ...
 
 positional arguments:
   container             Container name
