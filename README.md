@@ -20,9 +20,10 @@ Counters:
   Available counters
 
   {cpu,ip,memory,network,status}
-    cpu                 Display CPU usage
-    ip                  Display IP Address
-    memory              Display memory usage
-    network             Display network usage
-    status              Display the container status
-    
+  cpu                 Display CPU usage
+  ip                  Display IP Address
+  memory              Display memory usage
+  network             Display network usage
+  status              Display the container status
+
+
