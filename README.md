@@ -1,5 +1,5 @@
 # container.py
-to monitor docker container memory, cpu, network and status
+To monitor docker containers memory, cpu, network and status
 
 How to use it...
 
