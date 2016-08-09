@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-__author__ = 'Venood.Khatuwa'
+__author__ = 'Venood.Katuwa'
 
 import argparse
 import re
