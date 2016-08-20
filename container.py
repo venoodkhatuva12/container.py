@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#Author: Vinod.N K
+#Distro : Linux -Centos, Rhel, and any fedora
 
 __author__ = 'Venood.Katuwa'
 
